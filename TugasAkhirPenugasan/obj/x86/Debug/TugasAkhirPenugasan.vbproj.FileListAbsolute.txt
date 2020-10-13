@@ -1,0 +1,13 @@
+C:\Users\User\documents\visual studio 2010\Projects\TugasAkhirPenugasan\TugasAkhirPenugasan\bin\Debug\TugasAkhirPenugasan.exe
+C:\Users\User\documents\visual studio 2010\Projects\TugasAkhirPenugasan\TugasAkhirPenugasan\bin\Debug\TugasAkhirPenugasan.pdb
+C:\Users\User\documents\visual studio 2010\Projects\TugasAkhirPenugasan\TugasAkhirPenugasan\bin\Debug\TugasAkhirPenugasan.xml
+C:\Users\User\documents\visual studio 2010\Projects\TugasAkhirPenugasan\TugasAkhirPenugasan\obj\x86\Debug\TugasAkhirPenugasan.Resources.resources
+C:\Users\User\documents\visual studio 2010\Projects\TugasAkhirPenugasan\TugasAkhirPenugasan\obj\x86\Debug\TugasAkhirPenugasan.vbproj.GenerateResource.Cache
+C:\Users\User\documents\visual studio 2010\Projects\TugasAkhirPenugasan\TugasAkhirPenugasan\obj\x86\Debug\TugasAkhirPenugasan.exe
+C:\Users\User\documents\visual studio 2010\Projects\TugasAkhirPenugasan\TugasAkhirPenugasan\obj\x86\Debug\TugasAkhirPenugasan.xml
+C:\Users\User\documents\visual studio 2010\Projects\TugasAkhirPenugasan\TugasAkhirPenugasan\obj\x86\Debug\TugasAkhirPenugasan.pdb
+C:\Users\User\documents\visual studio 2010\Projects\TugasAkhirPenugasan\TugasAkhirPenugasan\obj\x86\Debug\TugasAkhirPenugasan.Form1.resources
+C:\Users\User\documents\visual studio 2010\Projects\TugasAkhirPenugasan\TugasAkhirPenugasan\obj\x86\Debug\TugasAkhirPenugasan.Form2.resources
+C:\Users\User\documents\visual studio 2010\Projects\TugasAkhirPenugasan\TugasAkhirPenugasan\obj\x86\Debug\TugasAkhirPenugasan.Form3.resources
+C:\Users\User\documents\visual studio 2010\Projects\TugasAkhirPenugasan\TugasAkhirPenugasan\obj\x86\Debug\TugasAkhirPenugasan.Form4.resources
+C:\Users\User\documents\visual studio 2010\Projects\TugasAkhirPenugasan\TugasAkhirPenugasan\obj\x86\Debug\TugasAkhirPenugasan.Form5.resources
